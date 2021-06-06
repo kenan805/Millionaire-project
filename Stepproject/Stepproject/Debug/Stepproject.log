@@ -1,0 +1,3 @@
+﻿  Stepproject.cpp
+C:\Users\user\source\repos\Stepproject\Stepproject\Stepproject.cpp(839,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Stepproject.vcxproj -> C:\Users\user\source\repos\Stepproject\Debug\Stepproject.exe
